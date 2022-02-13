@@ -1,0 +1,71 @@
+a{
+    text-decoration:none;
+    color: aqua;
+}
+.name-highlight{
+    color: pink;
+    font-family: 'Akaya Telivigala', cursive;
+}
+.half-width{
+    width: 45%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2px;
+
+}
+img{
+   
+   
+}
+section{
+   height: 100vh;
+}
+.header{
+    
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    height: 800px;
+
+}
+button{
+    background-color: rgb(240, 58, 118);
+    border-radius: 8px;
+    width: 100px;
+}
+.biography button{
+    background-color: orange;
+}
+.latest{
+    background-image: url("images/latest-work-bg.png");
+   
+}
+.latest img{
+    width: 30%;
+}
+.last{
+    margin-left: 5%;
+    
+}
+.client{
+    background-image: url("images/footer-bg.png");
+    height: 650px;
+}
+.last-class{
+    text-align: center;
+    margin: 5%;
+    
+}
+.message{
+    text-align: center;
+    color: white;
+    font-weight: 900;
+    border: 10px solid rgb(248, 39, 74) ;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: rgb(245, 31, 67);
+    border-radius: 10px;
+    height: 150px;
+}
